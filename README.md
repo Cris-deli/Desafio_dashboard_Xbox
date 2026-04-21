@@ -136,8 +136,8 @@ print(df_limpo.describe())
 ## 👨‍💻 Autor
 
 **Nome:** [Carla Andrade]  
-**Email:** ccsacris78@gmail.com]  
-**GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+**Email:** [ccsacris78@gmail.com]  
+**GitHub:** (https://github.com/Cris-deli)
 
 ## 📄 Licença
 
